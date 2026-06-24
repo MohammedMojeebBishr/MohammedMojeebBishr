@@ -71,7 +71,8 @@
   <a href="mailto:mohammedmojeepali@gmail.com">
     <img src="https://img.shields.io/badge/Email-1a2a6c?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp
+  
   <a href="https://wa.me/967772062777">
     <img src="https://img.shields.io/badge/772062777-1a2a6c?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
