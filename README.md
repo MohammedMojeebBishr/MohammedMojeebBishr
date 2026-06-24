@@ -82,9 +82,7 @@
   <a href="https://t.me/MohammedMojeepBishr">
   <img src="https://img.shields.io/badge/Telegram-1a2a6c?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-mujeeb-bishr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Mojeeb%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/mohammed-mujeeb-bishr" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
+</a>
 </p>
