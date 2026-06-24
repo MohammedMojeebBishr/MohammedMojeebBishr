@@ -82,5 +82,7 @@
   <a href="https://t.me/MohammedMojeepBishr">
   <img src="https://img.shields.io/badge/Telegram-1a2a6c?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-
+<a href="https://www.linkedin.com/in/mohammed-mujeeb-bishr">
+  <img src="https://img.shields.io/badge/LinkedIn-1a2a6c?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
