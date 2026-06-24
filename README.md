@@ -57,7 +57,7 @@
   <b>🗄️ Infrastructure</b><br><br>
   <div style="display: inline-block;">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" style="vertical-align: middle;" />
-    <img src="https://img.shields.io/badge/-SQL%20Server-1a1a1a?style=flat&logoColor=CC2927" height="35" style="vertical-align: middle; margin: 0 -2px; border-radius: 5px;" />
+    <img src="https://img.shields.io/badge/-1a1a1a?style=flat&logoColor=CC2927" height="35" style="vertical-align: middle; margin: 0 -2px; border-radius: 5px;" />
     <img src="https://skillicons.dev/icons?i=firebase" height="40" style="vertical-align: middle;" />
   </div>
 </td>
