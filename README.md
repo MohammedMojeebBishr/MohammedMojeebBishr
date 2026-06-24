@@ -83,6 +83,6 @@
   <img src="https://img.shields.io/badge/Telegram-1a2a6c?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/mohammed-mujeeb-bishr" target="_blank">
-  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Mojeeb%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
 </a>
 </p>
