@@ -55,7 +55,7 @@
     </td>
 <td align="center" width="33%">
   <b>🗄️ Infrastructure</b><br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
 </td>
   </tr>
 </table>
