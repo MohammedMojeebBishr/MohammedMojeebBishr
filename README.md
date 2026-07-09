@@ -61,25 +61,6 @@
   </tr>
 </table>
 ---
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedMojeebBishr&show_icons=true&count_private=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeebBishr&layout=compact&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedMojeebBishr&theme=tokyonight" />
-
-</div>
-
----
----
 </div>
 
 <p align="center">
