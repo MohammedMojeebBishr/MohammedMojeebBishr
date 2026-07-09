@@ -66,7 +66,6 @@
 
 <p align="center">
  
-  &nbsp
   
   <a href="https://wa.me/967772062777">
     <img src="https://img.shields.io/badge/772062777-1a2a6c?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
