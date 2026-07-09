@@ -54,7 +54,7 @@
       <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel" />
     </td>
 <td align="center" width="33%">
-  <b>🗄️ Infrastructure</b><br><br>
+  <b>🗄️ Databases</b><br><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
 </td>
   </tr>
