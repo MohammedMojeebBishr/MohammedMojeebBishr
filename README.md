@@ -64,9 +64,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:mohammedmojeepali@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a2a6c?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ 
   &nbsp
   
   <a href="https://wa.me/967772062777">
