@@ -61,23 +61,24 @@
   </tr>
 </table>
 ---
----
 
 <div align="center">
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedMojeebBishr&show_icons=true&count_private=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeebBishr&layout=compact&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedMojeebBishr&theme=tokyonight" />
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedMojeebBishr&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeebBishr&layout=compact&theme=tokyonight" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedMojeebBishr&theme=tokyonight" />
-</p>
-
+---
 ---
 </div>
 
