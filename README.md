@@ -60,7 +60,27 @@
 </td>
   </tr>
 </table>
+---
 
+<div align="center">
+
+### 📊 GitHub Statistics
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedMojeebBishr&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMojeebBishr&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MohammedMojeebBishr&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 ---
 </div>
 
