@@ -62,19 +62,16 @@
 </table>
 
 </div>
-
-   <a href="https://wa.me/967782807337">
+<p align="center">
+  <a href="https://wa.me/967782807337" target="_blank">
     <img src="https://img.shields.io/badge/782807337-1a2a6c?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
-  </a> 
-  &nbsp;
-
-  <a href="https://wa.me/967772062777">
-    <img src="https://img.shields.io/badge/772062777-1a2a6c?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
-  <a href="https://t.me/MohammedMojeepBishr">
-  <img src="https://img.shields.io/badge/Telegram-1a2a6c?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mohammed-mujeeb-bishr" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-</a>
+  &nbsp;
+  <a href="https://t.me/MohammedMojeepBishr" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-1a2a6c?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-mujeeb-bishr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
 </p>
