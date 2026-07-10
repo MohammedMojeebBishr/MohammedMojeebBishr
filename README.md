@@ -8,11 +8,9 @@
 
 ---
 
-
 <div align="center">
 
-###  About Me
-
+### About Me
 
 </div>
 
@@ -36,8 +34,6 @@
 
 <br/>
 
-
-
 <div align="center">
 
 ### 🛠️ Technical Stack
@@ -47,22 +43,23 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <b>🎨 Frontend Web</b><br>
+      <b>🎨 Frontend Web</b><br><br>
       <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" />
     </td>
     <td align="center" width="33%">
-      <b>📱 Mobile & Logic</b><br>
+      <b>📱 Mobile & Logic</b><br><br>
       <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel" />
     </td>
-<td align="center" width="33%">
-  <b>🗄️ Databases</b><br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-</td>
+    <td align="center" width="33%">
+      <b>🗄️ Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+    </td>
   </tr>
 </table>
 
-</div>
-<p align="center">
+<br/>
+
+<div align="center">
   <a href="https://wa.me/967782807337" target="_blank">
     <img src="https://img.shields.io/badge/782807337-1a2a6c?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
   </a>
@@ -74,4 +71,4 @@
   <a href="https://www.linkedin.com/in/mohammed-mujeeb-bishr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-</p>
+</div>
