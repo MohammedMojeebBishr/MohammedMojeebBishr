@@ -60,14 +60,22 @@
 
 <div align="center">
   <a href="https://wa.me/967782807337" target="_blank">
-    <img src="https://img.shields.io/badge/782807337-1a2a6c?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;
   <a href="https://t.me/MohammedMojeepBishr" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-1a2a6c?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mohammed-mujeeb-bishr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/MohammedMujeepBishr/?locale=ar_AR" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mohammed_mujeep7/?__pwa=1#" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
