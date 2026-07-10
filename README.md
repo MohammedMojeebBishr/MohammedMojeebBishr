@@ -47,7 +47,7 @@
       <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" />
     </td>
     <td align="center" width="33%">
-      <b>📱 Mobile & Logic</b><br><br>
+      <b>📱 Mobile & Backend</b><br><br>
       <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel" />
     </td>
     <td align="center" width="33%">
@@ -56,7 +56,6 @@
     </td>
   </tr>
 </table>
-
 <br/>
 
 <div align="center">
